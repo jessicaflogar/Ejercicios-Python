@@ -1,2 +1,2 @@
-# area_triangulo
-Código python para calcular el área de un triángulo
+# Agoritmos de python
+Código python para resolver diferentes ejercicios
